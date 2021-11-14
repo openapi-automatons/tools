@@ -282,7 +282,7 @@ export interface OpenapiSchemaCommon {
   writeOnly?: boolean;
   externalDocs?: OpenapiExternalDocument;
   deprecated?: boolean;
-  examples?: any;
+  example?: any;
 }
 
 export type OpenapiSecuritySchema = OpenapiSecurityApiKeySchema
