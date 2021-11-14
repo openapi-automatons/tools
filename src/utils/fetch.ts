@@ -2,7 +2,7 @@ import nodeFetch from "node-fetch";
 import {readFile} from "fs-extra";
 import {dirname, extname, resolve} from "path";
 import {Openapi} from "../types";
-import {safeLoad} from "js-yaml";
+import {load} from "js-yaml";
 import {parse as parseUrl} from "url";
 import {isUrl} from "./url";
 
@@ -26,7 +26,7 @@ const parse = <T extends object = Openapi>(data: string, filePath: string): T =>
       return JSON.parse(data);
     case '.yml':
     case '.yaml':
-      const yaml = safeLoad(data);
+      const yaml = load(data);
       if (typeof yaml === 'object') {
         return yaml as T;
       }
