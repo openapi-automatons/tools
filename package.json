@@ -1,0 +1,39 @@
+{
+  "name": "@automatons/tools",
+  "version": "1.0.8",
+  "repository": "git@github.com:tanmen/openapi-automatons.git",
+  "author": "tanmen <yt.prog@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "openapi",
+    "openapi-automatons",
+    "automatons"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "prebuild": "depcheck && node scripts/prebuild.js",
+    "build": "tsc && cp package.json README.md LICENSE dist",
+    "postinstall": "husky install && typesync && yarn check --integrity || yarn install --ignore-scripts && yarn-deduplicate",
+    "test": "jest"
+  },
+  "dependencies": {
+    "fs-extra": "^9.0.0",
+    "js-yaml": "^3.14.0",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {
+    "@types/fs-extra": "^8.1.0",
+    "@types/jest": "^25.2.1",
+    "@types/js-yaml": "^3.12.4",
+    "@types/node": "^13.11.1",
+    "@types/node-fetch": "^2.5.7",
+    "depcheck": "^0.9.2",
+    "jest": "^26.0.1",
+    "ts-jest": "^26.0.0",
+    "typescript": "^3.9.3",
+    "yarn-deduplicate": "^3.1.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
