@@ -1,3 +1,18 @@
+## [1.0.9](https://github.com/openapi-automatons/tools/compare/v1.0.8...v1.0.9) (2021-11-14)
+
+
+### Bug Fixes
+
+* add semantic-release ([e249384](https://github.com/openapi-automatons/tools/commit/e24938476216ff9e21319aa5e7be1013cfaa287b))
+* dependency ([fcfeb96](https://github.com/openapi-automatons/tools/commit/fcfeb96fbee12dafdc6219edc1052f4961a550a5))
+* **deps-dev:** bump @types/node from 13.13.52 to 16.11.7 ([#1](https://github.com/openapi-automatons/tools/issues/1)) ([683bc24](https://github.com/openapi-automatons/tools/commit/683bc248afcadb80e451ae8809e4344580f98f8d))
+* **deps-dev:** bump typescript from 3.9.10 to 4.4.4 ([#2](https://github.com/openapi-automatons/tools/issues/2)) ([b1d7f1d](https://github.com/openapi-automatons/tools/commit/b1d7f1dbbff929ede223aa2745364482e38bf086))
+* **deps:** bump fs-extra from 9.1.0 to 10.0.0 ([#3](https://github.com/openapi-automatons/tools/issues/3)) ([793fc4e](https://github.com/openapi-automatons/tools/commit/793fc4e1e9a5ff7fd3ffb456736f08409b77c1ce))
+* development envroiment ([e464c94](https://github.com/openapi-automatons/tools/commit/e464c94a72b7bb2f3beb38a52cfaf2033199c54a))
+* invalid type ([a500d22](https://github.com/openapi-automatons/tools/commit/a500d226931e4fdc7972bf338cb32c67fc714e28))
+* js-yaml updated ([9021d2a](https://github.com/openapi-automatons/tools/commit/9021d2a8aaacb0410f9e243028aaad50aa60058a))
+* repository url ([b25248e](https://github.com/openapi-automatons/tools/commit/b25248e0ad6a931ebf75a373f8a50193a397d3e9))
+
 ## [1.0.16](https://github.com/openapi-automatons/openapi-automatons/compare/v1.0.15...v1.0.16) (2021-11-13)
 
 
