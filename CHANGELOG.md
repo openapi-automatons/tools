@@ -1,3 +1,10 @@
+## [1.0.11](https://github.com/openapi-automatons/tools/compare/v1.0.10...v1.0.11) (2021-11-15)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @types/jest from 25.2.3 to 27.0.2 ([#9](https://github.com/openapi-automatons/tools/issues/9)) ([a924950](https://github.com/openapi-automatons/tools/commit/a9249501a527f6b015f8c80b7a51ce16dc8a7c67))
+
 ## [1.0.10](https://github.com/openapi-automatons/tools/compare/v1.0.9...v1.0.10) (2021-11-15)
 
 
