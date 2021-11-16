@@ -1,3 +1,10 @@
+## [1.0.12](https://github.com/openapi-automatons/tools/compare/v1.0.11...v1.0.12) (2021-11-16)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @types/fs-extra from 8.1.2 to 9.0.13 ([#11](https://github.com/openapi-automatons/tools/issues/11)) ([8d51ec1](https://github.com/openapi-automatons/tools/commit/8d51ec1024d2e699fbfce0b36765411a759043ac))
+
 ## [1.0.11](https://github.com/openapi-automatons/tools/compare/v1.0.10...v1.0.11) (2021-11-15)
 
 
