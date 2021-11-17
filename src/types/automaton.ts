@@ -1,4 +1,4 @@
-import {Openapi} from "./openapi";
+import {Openapi} from './openapi';
 
 export type AutomatonContext = {
   openapi: Openapi;

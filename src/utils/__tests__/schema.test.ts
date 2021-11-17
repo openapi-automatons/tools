@@ -1,13 +1,15 @@
-import {OpenapiSchema} from "../../types";
+import {OpenapiSchema} from '../../types';
 import {
   isSchemaAllOf,
   isSchemaArray,
   isSchemaBoolean,
   isSchemaInteger,
   isSchemaNumber,
-  isSchemaObject, isSchemaOneOf, isSchemaRef,
-  isSchemaString
-} from "../schema";
+  isSchemaObject,
+  isSchemaOneOf,
+  isSchemaRef,
+  isSchemaString,
+} from '../schema';
 
 it('should be detect string', () => {
   expect(isSchemaString({type: 'string'})).toBeTruthy();

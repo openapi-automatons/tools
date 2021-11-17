@@ -1,4 +1,4 @@
-import {isRef} from "../openapi";
+import {isRef} from '../openapi';
 
 describe('isRef', () => {
   it('should be detect ref', () => {

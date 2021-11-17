@@ -1,20 +1,21 @@
-import {referenceTitle} from "../reference";
+import {referenceTitle} from '../reference';
 
 describe('referenceTitle', () => {
   it('should be extract model', () => {
-    expect(referenceTitle({$ref: "#/components/schemas/Pet"}))
-      .toBe('Pet')
+    expect(referenceTitle({$ref: '#/components/schemas/Pet'}))
+      .toBe('Pet');
   });
 
   it('should be extract model for url', () => {
-    const schema = {$ref: "https://raw.githubusercontent.com/OAI/OpenAPI-Specification/main/examples/v3.0/petstore.yaml#"};
+    const schema =
+      {$ref: 'https://raw.githubusercontent.com/OAI/OpenAPI-Specification/main/examples/v3.0/petstore.yaml#'};
     expect(referenceTitle(schema))
-      .toBe('petstore')
+      .toBe('petstore');
   });
 
   it('should be error for invalid format', () => {
     expect(() => referenceTitle({$ref: 'error'}))
-      .toThrow('Invalid ref format: error\n  Can not extract name.')
+      .toThrow('Invalid ref format: error\n  Can not extract name.');
   });
 });
 

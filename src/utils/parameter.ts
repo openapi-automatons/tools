@@ -6,9 +6,9 @@ import {
   OpenapiParameterPath,
   OpenapiParameterQuery,
   OpenapiPathMedia,
-  OpenapiSchema
-} from "../types";
-import {isRef} from "./openapi";
+  OpenapiSchema,
+} from '../types';
+import {isRef} from './openapi';
 
 export const hasSchema =
   (param: OpenapiParameter): param is OpenapiParameter & { schema: OpenapiSchema } =>
