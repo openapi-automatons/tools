@@ -1,3 +1,10 @@
+## [1.0.17](https://github.com/openapi-automatons/tools/compare/v1.0.16...v1.0.17) (2021-11-18)
+
+
+### Bug Fixes
+
+* release package flow ([0929057](https://github.com/openapi-automatons/tools/commit/0929057b5e304e51a5fb17a612ce16789b6ca0e3))
+
 ## [1.0.16](https://github.com/openapi-automatons/tools/compare/v1.0.15...v1.0.16) (2021-11-17)
 
 
