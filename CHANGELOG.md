@@ -1,3 +1,12 @@
+## [1.0.20](https://github.com/openapi-automatons/tools/compare/v1.0.19...v1.0.20) (2021-11-22)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @types/js-yaml from 4.0.4 to 4.0.5 ([#23](https://github.com/openapi-automatons/tools/issues/23)) ([4193da9](https://github.com/openapi-automatons/tools/commit/4193da94ea5f255d557cb4fc8351ea9ca82e8345))
+* **deps-dev:** bump eslint from 8.2.0 to 8.3.0 ([#21](https://github.com/openapi-automatons/tools/issues/21)) ([50fe220](https://github.com/openapi-automatons/tools/commit/50fe22008344d3cbb9a8d0ca8e6c96d31ad8087e))
+* **deps-dev:** bump lint-staged from 12.0.3 to 12.1.2 ([#22](https://github.com/openapi-automatons/tools/issues/22)) ([0cdb67d](https://github.com/openapi-automatons/tools/commit/0cdb67d89db06102dcb7ad7186e180228a1c602d))
+
 ## [1.0.19](https://github.com/openapi-automatons/tools/compare/v1.0.18...v1.0.19) (2021-11-19)
 
 
