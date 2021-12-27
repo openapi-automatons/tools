@@ -1,3 +1,11 @@
+## [1.0.38](https://github.com/openapi-automatons/tools/compare/v1.0.37...v1.0.38) (2021-12-27)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @commitlint/cli from 15.0.0 to 16.0.0 ([#49](https://github.com/openapi-automatons/tools/issues/49)) ([7581251](https://github.com/openapi-automatons/tools/commit/7581251d557de32dad52fdddbca69250d16febc0))
+* **deps-dev:** bump @types/node from 17.0.4 to 17.0.5 ([#50](https://github.com/openapi-automatons/tools/issues/50)) ([83c14a4](https://github.com/openapi-automatons/tools/commit/83c14a4a746955a169d920a1c15560c487fc5f3e))
+
 ## [1.0.37](https://github.com/openapi-automatons/tools/compare/v1.0.36...v1.0.37) (2021-12-24)
 
 
