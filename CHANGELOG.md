@@ -1,3 +1,11 @@
+## [1.0.45](https://github.com/openapi-automatons/tools/compare/v1.0.44...v1.0.45) (2022-01-03)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump eslint from 8.5.0 to 8.6.0 ([#58](https://github.com/openapi-automatons/tools/issues/58)) ([5080642](https://github.com/openapi-automatons/tools/commit/5080642d72984aee1bc42cbe730f1f57c80c9747))
+* **deps-dev:** bump lint-staged from 12.1.4 to 12.1.5 ([#57](https://github.com/openapi-automatons/tools/issues/57)) ([34cd4ce](https://github.com/openapi-automatons/tools/commit/34cd4cecdb3251f1510377e587aed28feacaecc6))
+
 ## [1.0.44](https://github.com/openapi-automatons/tools/compare/v1.0.43...v1.0.44) (2022-01-03)
 
 
