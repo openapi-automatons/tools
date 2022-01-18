@@ -1,3 +1,12 @@
+## [1.0.55](https://github.com/openapi-automatons/tools/compare/v1.0.54...v1.0.55) (2022-01-18)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @semantic-release/npm from 8.0.3 to 9.0.0 ([#74](https://github.com/openapi-automatons/tools/issues/74)) ([83ac50f](https://github.com/openapi-automatons/tools/commit/83ac50fb5b2bd11a11d9dd8ad400be27a92d958b))
+* **deps-dev:** bump @typescript-eslint/parser from 5.9.1 to 5.10.0 ([#72](https://github.com/openapi-automatons/tools/issues/72)) ([7e6b2dd](https://github.com/openapi-automatons/tools/commit/7e6b2dd02ed0147f9b32ab8489588ca190849477))
+* **deps-dev:** bump lint-staged from 12.1.7 to 12.2.0 ([#73](https://github.com/openapi-automatons/tools/issues/73)) ([9a01a18](https://github.com/openapi-automatons/tools/commit/9a01a184678edca0b1bfda82231c33d342f7872f))
+
 ## [1.0.54](https://github.com/openapi-automatons/tools/compare/v1.0.53...v1.0.54) (2022-01-18)
 
 
