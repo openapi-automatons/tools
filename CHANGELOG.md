@@ -1,3 +1,11 @@
+## [1.0.69](https://github.com/openapi-automatons/tools/compare/v1.0.68...v1.0.69) (2022-02-08)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @types/node from 17.0.15 to 17.0.16 ([#95](https://github.com/openapi-automatons/tools/issues/95)) ([cb7b936](https://github.com/openapi-automatons/tools/commit/cb7b93645c9c3a3801494db72c01fbb417fae07a))
+* **deps-dev:** bump @typescript-eslint/parser from 5.10.2 to 5.11.0 ([#96](https://github.com/openapi-automatons/tools/issues/96)) ([81bf921](https://github.com/openapi-automatons/tools/commit/81bf921e2f17dbeaf22149cb8dc5b5b3374b2b5b))
+
 ## [1.0.68](https://github.com/openapi-automatons/tools/compare/v1.0.67...v1.0.68) (2022-02-07)
 
 
