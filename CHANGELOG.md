@@ -1,3 +1,10 @@
+## [1.0.73](https://github.com/openapi-automatons/tools/compare/v1.0.72...v1.0.73) (2022-02-14)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @commitlint/cli from 16.1.0 to 16.2.1 ([#102](https://github.com/openapi-automatons/tools/issues/102)) ([aeaf7c9](https://github.com/openapi-automatons/tools/commit/aeaf7c9186f6e3b07a50fb35ab471cf6abf1a683))
+
 ## [1.0.72](https://github.com/openapi-automatons/tools/compare/v1.0.71...v1.0.72) (2022-02-14)
 
 
