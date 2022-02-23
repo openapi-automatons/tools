@@ -1,3 +1,11 @@
+## [1.0.80](https://github.com/openapi-automatons/tools/compare/v1.0.79...v1.0.80) (2022-02-23)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @types/jest from 27.4.0 to 27.4.1 ([#110](https://github.com/openapi-automatons/tools/issues/110)) ([0f63acd](https://github.com/openapi-automatons/tools/commit/0f63acd22fb0830610184d941c18790417c05443))
+* **deps-dev:** bump @types/node from 17.0.19 to 17.0.21 ([#111](https://github.com/openapi-automatons/tools/issues/111)) ([8fd2770](https://github.com/openapi-automatons/tools/commit/8fd277067e5d2564a0c8329b4b7b12ea5c578a47))
+
 ## [1.0.79](https://github.com/openapi-automatons/tools/compare/v1.0.78...v1.0.79) (2022-02-22)
 
 
