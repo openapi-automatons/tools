@@ -1,3 +1,10 @@
+## [1.0.83](https://github.com/openapi-automatons/tools/compare/v1.0.82...v1.0.83) (2022-03-01)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump typescript from 4.5.5 to 4.6.2 ([#115](https://github.com/openapi-automatons/tools/issues/115)) ([43e00cb](https://github.com/openapi-automatons/tools/commit/43e00cb84f5c4d86bb837e314b8214832287c8b5))
+
 ## [1.0.82](https://github.com/openapi-automatons/tools/compare/v1.0.81...v1.0.82) (2022-03-01)
 
 
