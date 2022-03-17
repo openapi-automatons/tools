@@ -1,3 +1,12 @@
+## [1.0.91](https://github.com/openapi-automatons/tools/compare/v1.0.90...v1.0.91) (2022-03-17)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @commitlint/cli from 16.2.1 to 16.2.3 ([#124](https://github.com/openapi-automatons/tools/issues/124)) ([8a56312](https://github.com/openapi-automatons/tools/commit/8a563123c4d455fa05a575b8103c801a2caa7eff))
+* **deps-dev:** bump @types/node-fetch from 2.5.12 to 2.6.1 ([8860085](https://github.com/openapi-automatons/tools/commit/88600850451908976731e887ee0c5da390155695))
+* **deps-dev:** bump lint-staged from 12.3.5 to 12.3.6 ([#125](https://github.com/openapi-automatons/tools/issues/125)) ([d4f4406](https://github.com/openapi-automatons/tools/commit/d4f4406d4e484c611d8d00b42766baa1e6ea3b83))
+
 ## [1.0.90](https://github.com/openapi-automatons/tools/compare/v1.0.89...v1.0.90) (2022-03-15)
 
 
