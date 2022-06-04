@@ -1,6 +1,6 @@
 import {readFile} from 'fs-extra';
 import {load} from 'js-yaml';
-import nodeFetch from 'node-fetch';
+import got from 'got';
 import {dirname, extname, resolve} from 'path';
 import {parse as parseUrl} from 'url';
 import {Openapi} from '../types';
@@ -8,10 +8,10 @@ import {isUrl} from './url';
 
 export const fetch = async <T extends Object = Openapi>(url: string, openapiPath?: string): Promise<T> =>
   parse(await (isUrl(url) ?
-    await nodeFetch(url).then(({text}) => text()) :
+    await got(url).text() :
     openapiPath ?
       isUrl(openapiPath) ?
-        await nodeFetch(urlJoin(openapiPath, url)).then(({text}) => text()) :
+        await got(urlJoin(openapiPath, url)).text() :
         readFile(resolve(extname(openapiPath) ?
           dirname(openapiPath) : openapiPath, url), {encoding: 'utf-8'}) :
       readFile(resolve(url), {encoding: 'utf-8'})), url);

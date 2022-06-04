@@ -1,9 +1,9 @@
-import {fetch} from '../fetch';
-import nodeFetch, {Response} from 'node-fetch';
-import {mocked} from 'ts-jest/utils';
+import got, {CancelableRequest} from 'got';
 import {resolve} from 'path';
+import {mocked} from 'ts-jest/utils';
+import {fetch} from '../fetch';
 
-jest.mock('node-fetch');
+jest.mock('got');
 
 const mockReadFile = jest.fn(() => Promise.resolve(''));
 require('fs-extra').readFile = mockReadFile;
@@ -25,9 +25,9 @@ describe('fetch', () => {
   });
 
   it('should be url file', async () => {
-    mocked(nodeFetch).mockResolvedValue({text: () => Promise.resolve('{"openapi": "3.0.3"}')} as Response);
+    mocked(got).mockReturnValue({text: () => Promise.resolve('{"openapi": "3.0.3"}')} as CancelableRequest);
     expect(await fetch('http://example.com/test.json')).toEqual({openapi: '3.0.3'});
-    expect(mocked(nodeFetch)).toBeCalledWith('http://example.com/test.json');
+    expect(mocked(got)).toBeCalledWith('http://example.com/test.json');
   });
 
   it('should be nested file', async () => {
@@ -39,16 +39,16 @@ describe('fetch', () => {
   });
 
   it('should be url nested file', async () => {
-    mocked(nodeFetch).mockResolvedValue({text: () => Promise.resolve('{"openapi": "3.0.3"}')} as Response);
+    mocked(got).mockReturnValue({text: () => Promise.resolve('{"openapi": "3.0.3"}')} as CancelableRequest);
     expect(await fetch('./test.json', 'http://example.com/openapi.json')).toEqual({openapi: '3.0.3'});
-    expect(mocked(nodeFetch)).toBeCalledWith('http://example.com/test.json');
+    expect(mocked(got)).toBeCalledWith('http://example.com/test.json');
     expect(await fetch('../test.json', 'http://example.com/test/openapi.json')).toEqual({openapi: '3.0.3'});
-    expect(mocked(nodeFetch)).toBeCalledWith('http://example.com/test.json');
+    expect(mocked(got)).toBeCalledWith('http://example.com/test.json');
   });
 
   it('should be nested url', async () => {
     mockReadFile.mockResolvedValue('{"openapi": "3.0.3"}');
-    mocked(nodeFetch).mockResolvedValue({text: () => Promise.resolve('{"openapi": "3.0.3"}')} as Response);
+    mocked(got).mockReturnValue({text: () => Promise.resolve('{"openapi": "3.0.3"}')} as CancelableRequest);
     expect(await fetch('http://example.com/openapi.json', './openapi.json')).toEqual({openapi: '3.0.3'});
   });
 });
