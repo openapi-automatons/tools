@@ -1,3 +1,11 @@
+## [1.0.120](https://github.com/openapi-automatons/tools/compare/v1.0.119...v1.0.120) (2022-06-27)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @commitlint/config-conventional ([#221](https://github.com/openapi-automatons/tools/issues/221)) ([e92a6b8](https://github.com/openapi-automatons/tools/commit/e92a6b88510c30fcd779bfcd3fd10fc9cadd28df))
+* **deps-dev:** bump @typescript-eslint/eslint-plugin ([#219](https://github.com/openapi-automatons/tools/issues/219)) ([916e83a](https://github.com/openapi-automatons/tools/commit/916e83aec041dfc874ffb7da381e2080cd046762))
+
 ## [1.0.119](https://github.com/openapi-automatons/tools/compare/v1.0.118...v1.0.119) (2022-06-27)
 
 
