@@ -1,3 +1,10 @@
+## [1.0.131](https://github.com/openapi-automatons/tools/compare/v1.0.130...v1.0.131) (2022-07-20)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @types/semantic-release from 17.2.3 to 17.2.4 ([#240](https://github.com/openapi-automatons/tools/issues/240)) ([873a801](https://github.com/openapi-automatons/tools/commit/873a80183031d2d574d3050ecce30684ad25b191))
+
 ## [1.0.130](https://github.com/openapi-automatons/tools/compare/v1.0.129...v1.0.130) (2022-07-18)
 
 
