@@ -1,3 +1,11 @@
+## [1.0.149](https://github.com/openapi-automatons/tools/compare/v1.0.148...v1.0.149) (2022-08-29)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @commitlint/cli from 17.0.3 to 17.1.2 ([#273](https://github.com/openapi-automatons/tools/issues/273)) ([7798410](https://github.com/openapi-automatons/tools/commit/7798410e4c3eb6a1bf651246fc7e4df7ee8d9270))
+* **deps-dev:** bump yarn-deduplicate from 5.0.2 to 6.0.0 ([#275](https://github.com/openapi-automatons/tools/issues/275)) ([86607e5](https://github.com/openapi-automatons/tools/commit/86607e5e7da10ed3073ac0539fa54e134806cdf4))
+
 ## [1.0.148](https://github.com/openapi-automatons/tools/compare/v1.0.147...v1.0.148) (2022-08-29)
 
 
