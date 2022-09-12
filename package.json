@@ -35,7 +35,7 @@
     "@types/js-yaml": "^4.0.5",
     "@types/node": "^18.7.16",
     "@types/semantic-release": "^17.2.4",
-    "@typescript-eslint/eslint-plugin": "^5.36.2",
+    "@typescript-eslint/eslint-plugin": "^5.37.0",
     "@typescript-eslint/parser": "^5.37.0",
     "depcheck": "^1.4.3",
     "eslint": "^8.23.1",
