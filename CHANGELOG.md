@@ -1,3 +1,11 @@
+## [1.0.177](https://github.com/openapi-automatons/tools/compare/v1.0.176...v1.0.177) (2022-10-25)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @types/node from 18.11.3 to 18.11.5 ([#311](https://github.com/openapi-automatons/tools/issues/311)) ([93b7f66](https://github.com/openapi-automatons/tools/commit/93b7f668828b95c870b9f98e21eb0999d897bef1))
+* **deps-dev:** bump @typescript-eslint/eslint-plugin ([#310](https://github.com/openapi-automatons/tools/issues/310)) ([c96c753](https://github.com/openapi-automatons/tools/commit/c96c753d3ceedbbec4c646f7ead479c806385d62))
+
 ## [1.0.176](https://github.com/openapi-automatons/tools/compare/v1.0.175...v1.0.176) (2022-10-20)
 
 
