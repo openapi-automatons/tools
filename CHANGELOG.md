@@ -1,3 +1,11 @@
+## [1.0.181](https://github.com/openapi-automatons/tools/compare/v1.0.180...v1.0.181) (2022-10-31)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @commitlint/config-conventional ([#316](https://github.com/openapi-automatons/tools/issues/316)) ([a05341b](https://github.com/openapi-automatons/tools/commit/a05341b4124ff9e9314de876f89e96923d078e7c))
+* **deps-dev:** bump @types/node from 18.11.7 to 18.11.8 ([#318](https://github.com/openapi-automatons/tools/issues/318)) ([ee85259](https://github.com/openapi-automatons/tools/commit/ee85259a259fbc7c2fdcdf0bb72075be3aec0255))
+
 ## [1.0.180](https://github.com/openapi-automatons/tools/compare/v1.0.179...v1.0.180) (2022-10-27)
 
 
