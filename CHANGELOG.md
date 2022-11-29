@@ -1,3 +1,10 @@
+## [1.0.195](https://github.com/openapi-automatons/tools/compare/v1.0.194...v1.0.195) (2022-11-29)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @semantic-release/changelog from 6.0.1 to 6.0.2 ([#338](https://github.com/openapi-automatons/tools/issues/338)) ([f0b2786](https://github.com/openapi-automatons/tools/commit/f0b2786ddc2c8b51ae9f018ba3e4f5317323bbf4))
+
 ## [1.0.194](https://github.com/openapi-automatons/tools/compare/v1.0.193...v1.0.194) (2022-11-29)
 
 
