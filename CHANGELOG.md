@@ -1,3 +1,10 @@
+## [1.0.197](https://github.com/openapi-automatons/tools/compare/v1.0.196...v1.0.197) (2022-12-01)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @types/node from 18.11.9 to 18.11.10 ([#339](https://github.com/openapi-automatons/tools/issues/339)) ([787c0b6](https://github.com/openapi-automatons/tools/commit/787c0b640ab0fdb3e3d46810aa77c39ad3cb1254))
+
 ## [1.0.196](https://github.com/openapi-automatons/tools/compare/v1.0.195...v1.0.196) (2022-11-29)
 
 
