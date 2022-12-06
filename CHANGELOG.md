@@ -1,3 +1,11 @@
+## [1.0.198](https://github.com/openapi-automatons/tools/compare/v1.0.197...v1.0.198) (2022-12-06)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @typescript-eslint/parser from 5.45.0 to 5.45.1 ([#342](https://github.com/openapi-automatons/tools/issues/342)) ([ddf6e9f](https://github.com/openapi-automatons/tools/commit/ddf6e9fc41ab345115d5f819f0edea99cba8a52b))
+* **deps-dev:** bump lint-staged from 13.0.4 to 13.1.0 ([#340](https://github.com/openapi-automatons/tools/issues/340)) ([cdcf681](https://github.com/openapi-automatons/tools/commit/cdcf6813d5c61b2787183c4a462f9095b0911c7b))
+
 ## [1.0.197](https://github.com/openapi-automatons/tools/compare/v1.0.196...v1.0.197) (2022-12-01)
 
 
