@@ -36,7 +36,7 @@
     "@types/node": "^18.11.14",
     "@types/semantic-release": "^17.2.4",
     "@typescript-eslint/eslint-plugin": "^5.46.0",
-    "@typescript-eslint/parser": "^5.46.0",
+    "@typescript-eslint/parser": "^5.46.1",
     "depcheck": "^1.4.3",
     "eslint": "^8.28.0",
     "eslint-config-google": "^0.14.0",
