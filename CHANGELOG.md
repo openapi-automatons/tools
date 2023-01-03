@@ -1,3 +1,10 @@
+## [1.0.213](https://github.com/openapi-automatons/tools/compare/v1.0.212...v1.0.213) (2023-01-03)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump husky from 8.0.2 to 8.0.3 ([#359](https://github.com/openapi-automatons/tools/issues/359)) ([c2f1980](https://github.com/openapi-automatons/tools/commit/c2f1980f74a2613714d4b188efce8e09e4450f98))
+
 ## [1.0.212](https://github.com/openapi-automatons/tools/compare/v1.0.211...v1.0.212) (2022-12-27)
 
 
