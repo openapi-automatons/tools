@@ -19,7 +19,7 @@
     "postversion": "cp package.json ../package.json"
   },
   "dependencies": {
-    "fs-extra": "^10.1.0",
+    "fs-extra": "^11.0.0",
     "got": "^11.8.5",
     "js-yaml": "^4.1.0"
   },
