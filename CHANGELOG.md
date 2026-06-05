@@ -1,3 +1,10 @@
+## [2.1.3](https://github.com/openapi-automatons/tools/compare/v2.1.2...v2.1.3) (2026-06-05)
+
+
+### Bug Fixes
+
+* **deps:** bump js-yaml from 4.1.0 to 4.2.0 ([#450](https://github.com/openapi-automatons/tools/issues/450)) ([76d8076](https://github.com/openapi-automatons/tools/commit/76d807650e7bede9ad2d52b2671b02849476a79f))
+
 ## [2.1.2](https://github.com/openapi-automatons/tools/compare/v2.1.1...v2.1.2) (2026-06-05)
 
 
