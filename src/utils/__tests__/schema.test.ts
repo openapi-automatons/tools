@@ -5,6 +5,7 @@ import {
   isSchemaBoolean,
   isSchemaInteger,
   isSchemaNumber,
+  isSchemaAnyOf,
   isSchemaObject,
   isSchemaOneOf,
   isSchemaRef,
@@ -43,6 +44,10 @@ it('should be detect allOf', () => {
 
 it('should be detect oneOf', () => {
   expect(isSchemaOneOf({oneOf: []})).toBeTruthy();
+});
+
+it('should be detect anyOf', () => {
+  expect(isSchemaAnyOf({anyOf: []})).toBeTruthy();
 });
 
 it('should be detect ref', () => {
