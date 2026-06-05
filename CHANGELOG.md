@@ -1,3 +1,10 @@
+## [2.1.1](https://github.com/openapi-automatons/tools/compare/v2.1.0...v2.1.1) (2026-06-05)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump eslint from 9.39.4 to 10.4.1 ([#449](https://github.com/openapi-automatons/tools/issues/449)) ([8833789](https://github.com/openapi-automatons/tools/commit/883378923c213272a1599f0ec1a4d66664c27349))
+
 # [2.1.0](https://github.com/openapi-automatons/tools/compare/v2.0.1...v2.1.0) (2026-06-05)
 
 
