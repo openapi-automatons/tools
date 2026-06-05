@@ -1,7 +1,7 @@
 {
   "name": "@automatons/tools",
   "version": "1.0.218",
-  "repository": "git@github.com:openapi-automatons/tools.git",
+  "repository": "https://github.com/openapi-automatons/tools.git",
   "author": "tanmen <yt.prog@gmail.com>",
   "license": "MIT",
   "packageManager": "yarn@1.22.22",
