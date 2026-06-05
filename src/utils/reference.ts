@@ -5,10 +5,10 @@ import {isRef} from './openapi';
 import {isUrl} from './url';
 
 export const referenceTitle = (schema: OpenapiReference): string => {
-  const [url, path] = schema.$ref.split('#');
-  const paths = (path || '').split('/').slice(1);
+  const [url = '', path = ''] = schema.$ref.split('#');
+  const paths = path.split('/').slice(1);
   if (paths.length) {
-    return paths[paths.length - 1];
+    return paths[paths.length - 1]!;
   } else if (isUrl(url)) {
     return parse(url).name;
   }

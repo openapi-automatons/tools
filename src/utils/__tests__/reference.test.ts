@@ -18,10 +18,3 @@ describe('referenceTitle', () => {
       .toThrow('Invalid ref format: error\n  Can not extract name.');
   });
 });
-
-describe('referenceSchema', () => {
-  // it('should be extract schema', () => {
-  //   expect(referenceSchema({$ref: '#/components/Pet'},
-  //     {openapi: petstore, settings: []}));
-  // });
-});
