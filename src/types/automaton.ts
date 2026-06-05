@@ -11,6 +11,8 @@ export type AutomatonSettings = {
   openapiPath: string;
 }
 
-export type Automaton = (openapi: Openapi,
-                         settings: AutomatonSettings,
-                         options: object | undefined) => unknown
+export type Automaton = (
+  openapi: Openapi,
+  settings: AutomatonSettings,
+  options?: object,
+) => void | Promise<unknown>;
