@@ -5,6 +5,7 @@ import {
   OpenapiSchemaBoolean,
   OpenapiSchemaInteger,
   OpenapiSchemaNumber,
+  OpenapiSchemaAnyOf,
   OpenapiSchemaObject,
   OpenapiSchemaOneOf,
   OpenapiSchemaReference,
@@ -29,5 +30,7 @@ export const isSchemaAllOf =
   (type: OpenapiSchema): type is OpenapiSchemaAllOf => Object.hasOwn(type, 'allOf');
 export const isSchemaOneOf =
   (type: OpenapiSchema): type is OpenapiSchemaOneOf => Object.hasOwn(type, 'oneOf');
+export const isSchemaAnyOf =
+  (type: OpenapiSchema): type is OpenapiSchemaAnyOf => Object.hasOwn(type, 'anyOf');
 export const isSchemaRef =
   (type: OpenapiSchema): type is OpenapiSchemaReference => Object.hasOwn(type, '$ref');

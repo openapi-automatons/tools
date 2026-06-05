@@ -34,6 +34,7 @@ export interface OpenapiInfoLicense {
 
 export interface OpenapiServer {
   url: string;
+  name?: string;
   'x-name'?: string;
   description?: string;
   variables?: OpenapiMap<OpenapiServerVariable>;
@@ -199,6 +200,7 @@ export type OpenapiSchema = OpenapiSchemaString
   | OpenapiSchemaArray
   | OpenapiSchemaAllOf
   | OpenapiSchemaOneOf
+  | OpenapiSchemaAnyOf
   | OpenapiSchemaReference;
 
 export type OpenapiSchemaReference = OpenapiReference & OpenapiSchemaCommon;
@@ -265,6 +267,16 @@ export interface OpenapiSchemaAllOf extends OpenapiSchemaCommon {
 
 export interface OpenapiSchemaOneOf extends OpenapiSchemaCommon {
   oneOf: OpenapiSchema[];
+  discriminator?: {
+    propertyName: string;
+    mapping?: {
+      [key: string]: string;
+    }
+  };
+}
+
+export interface OpenapiSchemaAnyOf extends OpenapiSchemaCommon {
+  anyOf: OpenapiSchema[];
   discriminator?: {
     propertyName: string;
     mapping?: {
