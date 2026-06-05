@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/openapi-automatons/tools/compare/v2.0.0...v2.0.1) (2026-06-05)
+
+
+### Bug Fixes
+
+* use https repository url so semantic-release git auth works in CI ([bbeb76e](https://github.com/openapi-automatons/tools/commit/bbeb76ee66d99822641294dd24070831659d639b))
+
 # [2.0.0](https://github.com/openapi-automatons/tools/compare/v1.0.218...v2.0.0) (2026-06-05)
 
 
