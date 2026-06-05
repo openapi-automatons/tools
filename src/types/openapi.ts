@@ -181,14 +181,14 @@ export interface OpenapiPathCommon {
 
 export interface OpenapiComponents {
   schemas?: OpenapiMap<OpenapiSchema>
-  responses?: {};
-  parameters?: {};
-  examples?: {};
-  requestBodies?: {};
-  headers?: {};
+  responses?: object;
+  parameters?: object;
+  examples?: object;
+  requestBodies?: object;
+  headers?: object;
   securitySchemes?: OpenapiMap<OpenapiSecuritySchema>;
-  links?: {};
-  callbacks?: {};
+  links?: object;
+  callbacks?: object;
 }
 
 export type OpenapiSchema = OpenapiSchemaString

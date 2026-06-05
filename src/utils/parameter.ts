@@ -12,10 +12,10 @@ import {isRef} from './openapi';
 
 export const hasSchema =
   (param: OpenapiParameter): param is OpenapiParameter & { schema: OpenapiSchema } =>
-    (param as Object).hasOwnProperty('schema');
+    Object.hasOwn(param, 'schema');
 export const hasContent =
   (param: OpenapiParameter): param is OpenapiParameter & { content: OpenapiMap<OpenapiPathMedia> } =>
-    (param as Object).hasOwnProperty('content');
+    Object.hasOwn(param, 'content');
 export const isPathParam =
   (param: OpenapiParameter): param is OpenapiParameterPath => !isRef(param) && param.in === 'path';
 export const isQueryParam =
