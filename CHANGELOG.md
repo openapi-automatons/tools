@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/openapi-automatons/tools/compare/v2.0.1...v2.1.0) (2026-06-05)
+
+
+### Features
+
+* add anyOf schema type and OpenAPI 3.2 server name ([#448](https://github.com/openapi-automatons/tools/issues/448)) ([d84cfd6](https://github.com/openapi-automatons/tools/commit/d84cfd6f48ea122c65684afcaf3cf3d648b6f626))
+
 ## [2.0.1](https://github.com/openapi-automatons/tools/compare/v2.0.0...v2.0.1) (2026-06-05)
 
 
