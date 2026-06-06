@@ -5,6 +5,7 @@ import {
   OpenapiParameterHeader,
   OpenapiParameterPath,
   OpenapiParameterQuery,
+  OpenapiParameterQueryString,
   OpenapiPathMedia,
   OpenapiSchema,
 } from '../types';
@@ -20,6 +21,8 @@ export const isPathParam =
   (param: OpenapiParameter): param is OpenapiParameterPath => !isRef(param) && param.in === 'path';
 export const isQueryParam =
   (param: OpenapiParameter): param is OpenapiParameterQuery => !isRef(param) && param.in === 'query';
+export const isQueryStringParam =
+  (param: OpenapiParameter): param is OpenapiParameterQueryString => !isRef(param) && param.in === 'querystring';
 export const isHeaderParam =
   (param: OpenapiParameter): param is OpenapiParameterHeader => !isRef(param) && param.in === 'header';
 export const isCookieParam =
