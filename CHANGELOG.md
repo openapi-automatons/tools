@@ -1,3 +1,10 @@
+# [2.2.0](https://github.com/openapi-automatons/tools/compare/v2.1.4...v2.2.0) (2026-06-06)
+
+
+### Features
+
+* support OpenAPI 3.2 query method, additionalOperations, and querystring ([#453](https://github.com/openapi-automatons/tools/issues/453)) ([fc35200](https://github.com/openapi-automatons/tools/commit/fc352006d52a1d030d210750c07e465a57f1d065))
+
 ## [2.1.4](https://github.com/openapi-automatons/tools/compare/v2.1.3...v2.1.4) (2026-06-05)
 
 
