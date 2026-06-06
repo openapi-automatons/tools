@@ -71,12 +71,15 @@ export interface OpenapiPath {
   head?: OpenapiPathOperation;
   patch?: OpenapiPathOperation;
   trace?: OpenapiPathOperation;
+  query?: OpenapiPathOperation;
+  additionalOperations?: OpenapiMap<OpenapiPathOperation>;
   servers?: OpenapiServer[];
   parameters?: OpenapiParameter[];
 }
 
 export type OpenapiParameter = OpenapiParameterPath
   | OpenapiParameterQuery
+  | OpenapiParameterQueryString
   | OpenapiParameterHeader
   | OpenapiParameterCookie
   | OpenapiReference;
@@ -114,6 +117,14 @@ export type OpenapiParameterCookie = {
   style: 'form';
   required?: boolean;
 } & OpenapiParameterCommon;
+
+export type OpenapiParameterQueryString = {
+  in: 'querystring';
+  name: string;
+  description?: string;
+  required?: boolean;
+  content: OpenapiMap<OpenapiPathMedia>;
+};
 
 export interface OpenapiPathOperation extends OpenapiPathCommon {
   operationId: string;
