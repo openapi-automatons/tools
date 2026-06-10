@@ -1,3 +1,10 @@
+## [2.2.3](https://github.com/openapi-automatons/tools/compare/v2.2.2...v2.2.3) (2026-06-10)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump semantic-release from 25.0.3 to 25.0.5 ([#456](https://github.com/openapi-automatons/tools/issues/456)) ([a4a8e65](https://github.com/openapi-automatons/tools/commit/a4a8e650076f40dfe04018532fc0d1ec2dfe1367))
+
 ## [2.2.2](https://github.com/openapi-automatons/tools/compare/v2.2.1...v2.2.2) (2026-06-09)
 
 
