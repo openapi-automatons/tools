@@ -1,3 +1,10 @@
+## [2.2.4](https://github.com/openapi-automatons/tools/compare/v2.2.3...v2.2.4) (2026-06-11)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @types/node from 25.9.2 to 25.9.3 ([#457](https://github.com/openapi-automatons/tools/issues/457)) ([29aa196](https://github.com/openapi-automatons/tools/commit/29aa196406eb0a398a785c9e13a2aa4035bc6c0b))
+
 ## [2.2.3](https://github.com/openapi-automatons/tools/compare/v2.2.2...v2.2.3) (2026-06-10)
 
 
