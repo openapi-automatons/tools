@@ -1,3 +1,11 @@
+## [2.2.8](https://github.com/openapi-automatons/tools/compare/v2.2.7...v2.2.8) (2026-06-22)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump lint-staged from 17.0.7 to 17.0.8 ([#461](https://github.com/openapi-automatons/tools/issues/461)) ([3ed7905](https://github.com/openapi-automatons/tools/commit/3ed7905231896c25fb71f9ef418219aea47467af))
+* **deps:** bump js-yaml from 4.2.0 to 5.0.0 ([#462](https://github.com/openapi-automatons/tools/issues/462)) ([a6a94ed](https://github.com/openapi-automatons/tools/commit/a6a94ed62cd52291327ab6b82cd469b7f65d9684))
+
 ## [2.2.7](https://github.com/openapi-automatons/tools/compare/v2.2.6...v2.2.7) (2026-06-19)
 
 
