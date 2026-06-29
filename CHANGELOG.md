@@ -1,3 +1,10 @@
+## [2.2.13](https://github.com/openapi-automatons/tools/compare/v2.2.12...v2.2.13) (2026-06-29)
+
+
+### Bug Fixes
+
+* **deps:** bump js-yaml from 5.1.0 to 5.2.0 ([#469](https://github.com/openapi-automatons/tools/issues/469)) ([e218fb3](https://github.com/openapi-automatons/tools/commit/e218fb34b281aefd1123d3ee7b01ef7f84c1da17))
+
 ## [2.2.12](https://github.com/openapi-automatons/tools/compare/v2.2.11...v2.2.12) (2026-06-29)
 
 
