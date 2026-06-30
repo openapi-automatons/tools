@@ -1,3 +1,10 @@
+## [2.2.15](https://github.com/openapi-automatons/tools/compare/v2.2.14...v2.2.15) (2026-06-30)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump typescript-eslint from 8.62.0 to 8.62.1 ([#471](https://github.com/openapi-automatons/tools/issues/471)) ([1889269](https://github.com/openapi-automatons/tools/commit/188926971a43f03ade51510d1166706de552833e))
+
 ## [2.2.14](https://github.com/openapi-automatons/tools/compare/v2.2.13...v2.2.14) (2026-06-30)
 
 
