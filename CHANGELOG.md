@@ -1,3 +1,10 @@
+## [2.2.19](https://github.com/openapi-automatons/tools/compare/v2.2.18...v2.2.19) (2026-07-08)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @commitlint/cli from 21.2.0 to 21.2.1 ([#476](https://github.com/openapi-automatons/tools/issues/476)) ([9df4881](https://github.com/openapi-automatons/tools/commit/9df4881b43a1bc8fed7b16343df7f093d3464fbe))
+
 ## [2.2.18](https://github.com/openapi-automatons/tools/compare/v2.2.17...v2.2.18) (2026-07-07)
 
 
