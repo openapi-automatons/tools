@@ -1,3 +1,11 @@
+## [2.2.21](https://github.com/openapi-automatons/tools/compare/v2.2.20...v2.2.21) (2026-07-13)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump eslint from 10.6.0 to 10.7.0 ([#478](https://github.com/openapi-automatons/tools/issues/478)) ([0ba7e2e](https://github.com/openapi-automatons/tools/commit/0ba7e2e791f8bbbadac4ef69d00ac84e295dc1f2))
+* **deps-dev:** bump semantic-release from 25.0.5 to 25.0.7 ([#479](https://github.com/openapi-automatons/tools/issues/479)) ([5a76a57](https://github.com/openapi-automatons/tools/commit/5a76a57daefc7c61a43da5d78a16f791df47a229))
+
 ## [2.2.20](https://github.com/openapi-automatons/tools/compare/v2.2.19...v2.2.20) (2026-07-08)
 
 
