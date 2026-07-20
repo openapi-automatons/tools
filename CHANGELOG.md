@@ -1,3 +1,11 @@
+## [2.2.22](https://github.com/[secure]-[secure]/tools/compare/v2.2.21...v2.2.22) (2026-07-20)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump semantic-release from 25.0.7 to 25.0.8 ([#481](https://github.com/[secure]-[secure]/tools/issues/481)) ([21672f9](https://github.com/[secure]-[secure]/tools/commit/21672f967b27b60ead387cd2b973004fdf06416e))
+* **deps-dev:** bump typescript-eslint from 8.63.0 to 8.64.0 ([#480](https://github.com/[secure]-[secure]/tools/issues/480)) ([8833bdc](https://github.com/[secure]-[secure]/tools/commit/8833bdcb21d367fdd681b4f19154d70931c72167))
+
 ## [2.2.21](https://github.com/openapi-automatons/tools/compare/v2.2.20...v2.2.21) (2026-07-13)
 
 
