@@ -1,3 +1,10 @@
+## [2.2.23](https://github.com/[secure]-[secure]/tools/compare/v2.2.22...v2.2.23) (2026-07-20)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump lint-staged from 17.0.8 to 17.1.0 ([#482](https://github.com/[secure]-[secure]/tools/issues/482)) ([1904998](https://github.com/[secure]-[secure]/tools/commit/19049989f2c2216abf90401980bb57933898282d))
+
 ## [2.2.22](https://github.com/[secure]-[secure]/tools/compare/v2.2.21...v2.2.22) (2026-07-20)
 
 
