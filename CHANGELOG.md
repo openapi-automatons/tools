@@ -1,3 +1,11 @@
+## [2.2.25](https://github.com/[secure]-[secure]/tools/compare/v2.2.24...v2.2.25) (2026-07-21)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @semantic-release/changelog from 6.0.3 to 7.0.0 ([#484](https://github.com/[secure]-[secure]/tools/issues/484)) ([ec80450](https://github.com/[secure]-[secure]/tools/commit/ec804503fc8a04f35a104285ded4933db55df9c4))
+* **deps:** bump tar from 7.5.16 to 7.5.20 ([#486](https://github.com/[secure]-[secure]/tools/issues/486)) ([ebcc42f](https://github.com/[secure]-[secure]/tools/commit/ebcc42f3cead40666a54f22105bc898659593506))
+
 ## [2.2.24](https://github.com/[secure]-[secure]/tools/compare/v2.2.23...v2.2.24) (2026-07-21)
 
 
