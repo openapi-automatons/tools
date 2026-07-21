@@ -1,3 +1,10 @@
+## [2.2.26](https://github.com/[secure]-[secure]/tools/compare/v2.2.25...v2.2.26) (2026-07-21)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @semantic-release/git from 10.0.1 to 11.0.0 ([#485](https://github.com/[secure]-[secure]/tools/issues/485)) ([35ca409](https://github.com/[secure]-[secure]/tools/commit/35ca40984b44f9a035dc6380dd94620b7b7c0c41))
+
 ## [2.2.25](https://github.com/[secure]-[secure]/tools/compare/v2.2.24...v2.2.25) (2026-07-21)
 
 
