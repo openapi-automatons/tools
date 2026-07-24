@@ -1,3 +1,10 @@
+## [2.2.30](https://github.com/[secure]-[secure]/tools/compare/v2.2.29...v2.2.30) (2026-07-24)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @semantic-release/git from 11.0.0 to 11.0.1 ([#490](https://github.com/[secure]-[secure]/tools/issues/490)) ([f000240](https://github.com/[secure]-[secure]/tools/commit/f0002408c397d8a13aa423fb03c5bdc1fc9caa07))
+
 ## [2.2.29](https://github.com/[secure]-[secure]/tools/compare/v2.2.28...v2.2.29) (2026-07-24)
 
 
