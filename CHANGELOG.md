@@ -1,3 +1,10 @@
+## [2.2.32](https://github.com/[secure]-[secure]/tools/compare/v2.2.31...v2.2.32) (2026-07-24)
+
+
+### Bug Fixes
+
+* **deps:** bump lodash-es from 4.17.21 to 4.18.1 ([#492](https://github.com/[secure]-[secure]/tools/issues/492)) ([521d31f](https://github.com/[secure]-[secure]/tools/commit/521d31fdbfb02a34f5c5dd3f22dee318c4f891d2))
+
 ## [2.2.31](https://github.com/[secure]-[secure]/tools/compare/v2.2.30...v2.2.31) (2026-07-24)
 
 
