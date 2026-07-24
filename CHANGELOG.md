@@ -1,3 +1,11 @@
+## [2.2.31](https://github.com/[secure]-[secure]/tools/compare/v2.2.30...v2.2.31) (2026-07-24)
+
+
+### Bug Fixes
+
+* **deps:** bump lodash from 4.17.21 to 4.18.1 ([#491](https://github.com/[secure]-[secure]/tools/issues/491)) ([5547a7d](https://github.com/[secure]-[secure]/tools/commit/5547a7d2a5c3ba6ac894918ba19c6ea54d67a337))
+* **deps:** bump minimist from 1.2.5 to 1.2.8 ([#493](https://github.com/[secure]-[secure]/tools/issues/493)) ([13e9467](https://github.com/[secure]-[secure]/tools/commit/13e9467a6447a0c85eb920ccdd1b3d2024052845))
+
 ## [2.2.30](https://github.com/[secure]-[secure]/tools/compare/v2.2.29...v2.2.30) (2026-07-24)
 
 
