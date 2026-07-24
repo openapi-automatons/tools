@@ -1,3 +1,12 @@
+## [2.2.33](https://github.com/[secure]-[secure]/tools/compare/v2.2.32...v2.2.33) (2026-07-24)
+
+
+### Bug Fixes
+
+* **deps:** bump braces from 3.0.2 to 3.0.3 ([#494](https://github.com/[secure]-[secure]/tools/issues/494)) ([f2d9d4c](https://github.com/[secure]-[secure]/tools/commit/f2d9d4cc10d558701c6e6e9b3adb266fa659414d))
+* **deps:** bump handlebars from 4.7.7 to 4.7.9 ([#495](https://github.com/[secure]-[secure]/tools/issues/495)) ([07d1a91](https://github.com/[secure]-[secure]/tools/commit/07d1a91a8b8ecf8f8ae44af492a0851f29d7ded9))
+* **deps:** bump postcss from 8.5.15 to 8.5.23 ([#496](https://github.com/[secure]-[secure]/tools/issues/496)) ([b411400](https://github.com/[secure]-[secure]/tools/commit/b4114000edc910f479ecd8a87ce3882ddef816ca))
+
 ## [2.2.32](https://github.com/[secure]-[secure]/tools/compare/v2.2.31...v2.2.32) (2026-07-24)
 
 
