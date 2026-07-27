@@ -1,3 +1,10 @@
+## [2.2.34](https://github.com/[secure]-[secure]/tools/compare/v2.2.33...v2.2.34) (2026-07-27)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump eslint from 10.7.0 to 10.8.0 ([#497](https://github.com/[secure]-[secure]/tools/issues/497)) ([67e99a0](https://github.com/[secure]-[secure]/tools/commit/67e99a0ba72aa675f3998a14c7bbb12c1f3bba9e))
+
 ## [2.2.33](https://github.com/[secure]-[secure]/tools/compare/v2.2.32...v2.2.33) (2026-07-24)
 
 
