@@ -1,3 +1,10 @@
+## [2.2.38](https://github.com/[secure]-[secure]/tools/compare/v2.2.37...v2.2.38) (2026-08-04)
+
+
+### Bug Fixes
+
+* **deps:** bump js-yaml from 5.2.2 to 5.2.3 ([#501](https://github.com/[secure]-[secure]/tools/issues/501)) ([1b9eccc](https://github.com/[secure]-[secure]/tools/commit/1b9ecccf7e79848f6dde19e94069c444f257aebb))
+
 ## [2.2.37](https://github.com/[secure]-[secure]/tools/compare/v2.2.36...v2.2.37) (2026-08-04)
 
 
