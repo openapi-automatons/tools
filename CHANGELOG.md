@@ -1,3 +1,10 @@
+## [2.2.37](https://github.com/[secure]-[secure]/tools/compare/v2.2.36...v2.2.37) (2026-08-04)
+
+
+### Bug Fixes
+
+* **deps:** bump ip-address from 10.2.0 to 10.4.0 ([#500](https://github.com/[secure]-[secure]/tools/issues/500)) ([0d20ddd](https://github.com/[secure]-[secure]/tools/commit/0d20ddd720f8a486e7888600e78dae9a0a8c763b))
+
 ## [2.2.36](https://github.com/[secure]-[secure]/tools/compare/v2.2.35...v2.2.36) (2026-08-03)
 
 
