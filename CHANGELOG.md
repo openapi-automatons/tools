@@ -1,3 +1,10 @@
+## [2.2.40](https://github.com/[secure]-[secure]/tools/compare/v2.2.39...v2.2.40) (2026-08-10)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump semantic-release from 25.0.8 to 25.0.9 ([#503](https://github.com/[secure]-[secure]/tools/issues/503)) ([0fe3b32](https://github.com/[secure]-[secure]/tools/commit/0fe3b329cc2aa44a77189ad53398ad8b6bfc6a91))
+
 ## [2.2.39](https://github.com/[secure]-[secure]/tools/compare/v2.2.38...v2.2.39) (2026-08-07)
 
 
