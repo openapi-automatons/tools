@@ -1,3 +1,11 @@
+## [2.2.41](https://github.com/[secure]-[secure]/tools/compare/v2.2.40...v2.2.41) (2026-08-11)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @types/node from 26.1.2 to 26.2.0 ([#505](https://github.com/[secure]-[secure]/tools/issues/505)) ([8ffa4a7](https://github.com/[secure]-[secure]/tools/commit/8ffa4a7dee8e85f4ef84ab3db410d45545686c1f))
+* **deps-dev:** bump eslint from 10.8.0 to 10.8.1 ([#504](https://github.com/[secure]-[secure]/tools/issues/504)) ([5843e7d](https://github.com/[secure]-[secure]/tools/commit/5843e7d248454819f3025a57d77a4f52f289e578))
+
 ## [2.2.40](https://github.com/[secure]-[secure]/tools/compare/v2.2.39...v2.2.40) (2026-08-10)
 
 
