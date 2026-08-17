@@ -1,3 +1,11 @@
+## [2.2.43](https://github.com/[secure]-[secure]/tools/compare/v2.2.42...v2.2.43) (2026-08-17)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @commitlint/config-conventional ([#508](https://github.com/[secure]-[secure]/tools/issues/508)) ([9cc3494](https://github.com/[secure]-[secure]/tools/commit/9cc34948cd92e4fe0cd4a9b2892c24f26d5c09e6))
+* **deps:** bump js-yaml from 5.2.3 to 5.3.0 ([#507](https://github.com/[secure]-[secure]/tools/issues/507)) ([560d8e0](https://github.com/[secure]-[secure]/tools/commit/560d8e0c2015dc104a901582980b9a4a08581150))
+
 ## [2.2.42](https://github.com/[secure]-[secure]/tools/compare/v2.2.41...v2.2.42) (2026-08-13)
 
 
