@@ -1,3 +1,10 @@
+## [2.2.44](https://github.com/[secure]-[secure]/tools/compare/v2.2.43...v2.2.44) (2026-08-17)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @commitlint/cli from 21.2.1 to 21.2.2 ([#509](https://github.com/[secure]-[secure]/tools/issues/509)) ([975af66](https://github.com/[secure]-[secure]/tools/commit/975af66f93d837a6b3ef6f79d84cffcd0257dab3))
+
 ## [2.2.43](https://github.com/[secure]-[secure]/tools/compare/v2.2.42...v2.2.43) (2026-08-17)
 
 
