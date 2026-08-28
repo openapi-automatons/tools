@@ -1,3 +1,13 @@
+## [2.2.46](https://github.com/[secure]-[secure]/tools/compare/v2.2.45...v2.2.46) (2026-08-28)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @types/node from 26.2.0 to 26.3.0 ([#514](https://github.com/[secure]-[secure]/tools/issues/514)) ([3eb2c4c](https://github.com/[secure]-[secure]/tools/commit/3eb2c4c96ea7c09d223662e2d55df8bff2444938))
+* **deps-dev:** bump eslint from 10.9.0 to 10.9.1 ([#512](https://github.com/[secure]-[secure]/tools/issues/512)) ([440fd87](https://github.com/[secure]-[secure]/tools/commit/440fd8700ff8307a27bf717ee431b4a784357770))
+* **deps-dev:** bump typescript-eslint from 8.67.0 to 8.68.0 ([#513](https://github.com/[secure]-[secure]/tools/issues/513)) ([c0738a4](https://github.com/[secure]-[secure]/tools/commit/c0738a44c4e913e4df8821fafc8320de6f04f537))
+* **deps:** bump js-yaml from 5.3.0 to 5.4.0 ([#511](https://github.com/[secure]-[secure]/tools/issues/511)) ([113a156](https://github.com/[secure]-[secure]/tools/commit/113a156f35f60ce3be757aa77e6f18eb588e8f6d))
+
 ## [2.2.45](https://github.com/[secure]-[secure]/tools/compare/v2.2.44...v2.2.45) (2026-08-24)
 
 
