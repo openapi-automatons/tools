@@ -1,3 +1,11 @@
+## [2.2.48](https://github.com/[secure]-[secure]/tools/compare/v2.2.47...v2.2.48) (2026-08-31)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump lint-staged from 17.3.0 to 17.4.1 ([#517](https://github.com/[secure]-[secure]/tools/issues/517)) ([e2e36e7](https://github.com/[secure]-[secure]/tools/commit/e2e36e7f098358b4c05e9e246de38d835ec6afc3))
+* **deps:** bump js-yaml from 5.4.0 to 5.4.1 ([#516](https://github.com/[secure]-[secure]/tools/issues/516)) ([49c68ac](https://github.com/[secure]-[secure]/tools/commit/49c68ac9f50a3f19c4e2d922644841b596abbb2a))
+
 ## [2.2.47](https://github.com/[secure]-[secure]/tools/compare/v2.2.46...v2.2.47) (2026-08-31)
 
 
