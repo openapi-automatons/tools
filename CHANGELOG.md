@@ -1,3 +1,10 @@
+## [2.2.49](https://github.com/[secure]-[secure]/tools/compare/v2.2.48...v2.2.49) (2026-09-01)
+
+
+### Bug Fixes
+
+* **deps:** bump postcss-selector-parser from 7.1.1 to 7.1.5 ([#518](https://github.com/[secure]-[secure]/tools/issues/518)) ([825bb2c](https://github.com/[secure]-[secure]/tools/commit/825bb2c009ac062f43c0f222f0c871493f75d1d0))
+
 ## [2.2.48](https://github.com/[secure]-[secure]/tools/compare/v2.2.47...v2.2.48) (2026-08-31)
 
 
