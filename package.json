@@ -33,7 +33,7 @@
     "prepare": "husky"
   },
   "dependencies": {
-    "js-yaml": "^5.4.2"
+    "js-yaml": "^5.4.3"
   },
   "devDependencies": {
     "@commitlint/cli": "^21.2.3",
