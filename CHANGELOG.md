@@ -1,3 +1,10 @@
+## [2.2.52](https://github.com/[secure]-[secure]/tools/compare/v2.2.51...v2.2.52) (2026-11-02)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @types/node from 26.6.5 to 26.6.6 ([#566](https://github.com/[secure]-[secure]/tools/issues/566)) ([5c3fcb5](https://github.com/[secure]-[secure]/tools/commit/5c3fcb5c8800578e1b27ad2537a3693e981b3804))
+
 ## [2.2.51](https://github.com/[secure]-[secure]/tools/compare/v2.2.50...v2.2.51) (2026-11-02)
 
 
