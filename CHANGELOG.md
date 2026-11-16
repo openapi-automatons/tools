@@ -1,3 +1,10 @@
+## [2.2.56](https://github.com/[secure]-[secure]/tools/compare/v2.2.55...v2.2.56) (2026-11-16)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump vite from 8.3.7 to 8.3.8 ([#570](https://github.com/[secure]-[secure]/tools/issues/570)) ([1427816](https://github.com/[secure]-[secure]/tools/commit/14278162be1e3dddd40448cf43b6f69c4011159f))
+
 ## [2.2.55](https://github.com/[secure]-[secure]/tools/compare/v2.2.54...v2.2.55) (2026-11-12)
 
 
