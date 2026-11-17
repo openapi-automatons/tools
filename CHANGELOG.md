@@ -1,3 +1,10 @@
+## [2.2.57](https://github.com/[secure]-[secure]/tools/compare/v2.2.56...v2.2.57) (2026-11-17)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump eslint from 10.14.0 to 10.15.0 ([#571](https://github.com/[secure]-[secure]/tools/issues/571)) ([6d760e6](https://github.com/[secure]-[secure]/tools/commit/6d760e69050ba5585d07a1f73ee5968e63b300f2))
+
 ## [2.2.56](https://github.com/[secure]-[secure]/tools/compare/v2.2.55...v2.2.56) (2026-11-16)
 
 
