@@ -1,3 +1,10 @@
+## [2.2.59](https://github.com/[secure]-[secure]/tools/compare/v2.2.58...v2.2.59) (2026-11-19)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump lint-staged from 17.6.0 to 17.6.1 ([#574](https://github.com/[secure]-[secure]/tools/issues/574)) ([cdd911b](https://github.com/[secure]-[secure]/tools/commit/cdd911be75b601ff5e6281b43ba1ea15a209baa5))
+
 ## [2.2.58](https://github.com/[secure]-[secure]/tools/compare/v2.2.57...v2.2.58) (2026-11-19)
 
 
