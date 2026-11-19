@@ -1,3 +1,10 @@
+## [2.2.58](https://github.com/[secure]-[secure]/tools/compare/v2.2.57...v2.2.58) (2026-11-19)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump typescript-eslint from 8.72.2 to 8.73.0 ([#572](https://github.com/[secure]-[secure]/tools/issues/572)) ([959bff4](https://github.com/[secure]-[secure]/tools/commit/959bff41253d2aeac39ec4ee8e046fed1226cd12))
+
 ## [2.2.57](https://github.com/[secure]-[secure]/tools/compare/v2.2.56...v2.2.57) (2026-11-17)
 
 
